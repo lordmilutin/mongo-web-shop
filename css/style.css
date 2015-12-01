@@ -1,0 +1,94 @@
+.header {
+	background: url("../img/header.jpg") no-repeat center;
+	background-size: cover;
+}
+
+.logo {
+	color: #fff;
+	padding: 200px 0 20px;
+	margin: 0;
+	font-family: 'Lobster', cursive;
+	font-size: 64px;
+	text-shadow: 0 0 20px #DD0F0F;
+}
+
+.sublogo {
+	color: #fff;
+	padding: 00px 0 150px;
+	margin: 0;
+	font-family: 'Lobster', cursive;
+	font-size: 32px;
+	text-shadow: 0 0 20px #DD0F0F;	
+}
+
+.filteri {
+	margin: 0 0 20px;
+	padding: 20px 0;
+	border-bottom: 1px solid #E3E3E3;
+}
+
+.sadrzaj .col-md-4 {
+	margin-bottom: 20px;
+}
+
+.sadrzaj .col-md-4 h3 {
+	margin-top: 10px;
+}
+
+.footer {
+	padding-bottom: 20px;
+	color: #A8A8A8;
+}
+
+.sidebar {
+	position: relative;
+}
+
+.sidebar .affix {
+    position: fixed;
+    top: 20px;
+}
+
+.kat {
+	position: absolute;
+	top: 5px;
+	left: 20px;
+	padding: 5px 10px;
+	background: #fff;
+	font-size: 12px;
+}
+
+.media {
+	position: relative;
+}
+
+.media-body {
+	width: 100%;
+}
+
+.media-body .removeCart {
+	float: right;
+}
+
+.nomarg {
+	margin-bottom: 2px;
+}
+
+.ukloniIzKorpe {
+	position: absolute;
+	right: 0;
+	top: 20px;
+	font-size: 22px;
+	cursor: pointer;
+}
+
+.btn-dodaj {
+	width: 100%;
+}
+
+.btnNavi {
+	position: absolute;
+	z-index: 10;
+	top: 0;
+	right: 0;
+}
